@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,byang236,Yang,Binrui
 employee,wu546,Wu,Yuke
